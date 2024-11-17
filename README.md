@@ -1,4 +1,4 @@
-## Hi, I'm Aishwarya! 🧑‍💻
+## Hi, I'm Aishwarya! 👩‍💻
 
 TL;DR: Software Engineer | iOS, Backend, Full-Stack Dev | Grad student exploring AI & ML
 
